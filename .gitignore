@@ -1,5 +1,4 @@
 # Github's default gitignore for Python
-README.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
